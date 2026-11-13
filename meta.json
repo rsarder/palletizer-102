@@ -9,7 +9,7 @@
     }
   ],
   "visibility": "private",
-  "url": "",
+  "url": "https://github.com/rsarder/palletizer-102.git",
   "description": "Modular generic service: palletizer made for viam 102",
   "markdown_link": "README.md",
   "entrypoint": "dist/main",
